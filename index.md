@@ -1,13 +1,13 @@
 ## About Me
 
-What's up? hey\|you
+Hey, what's up!
 
 I am an awesome student at Lehigh, you should hire me!
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/Headshot_2018.jpg" width="50%">
 </p>
 
 ---
