@@ -1,8 +1,6 @@
 ## About Me
 
-Hey, what's up!
-
-I am an awesome student at Lehigh, you should hire me!
+Hello, my name is Nico! Thank you for visiting my web page.
 
 <!-- Upload your own photo and change the path -->
 
@@ -46,15 +44,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Currently an undergrad student studying Business Analytics and Finance. I am currently reorienting myself towards another discipline, mainly one in healthcare systems engineering. Studying Finance has given me a plethora of indispensable tools that I can leverage in many settings in order to create value; however, I have recently discovered that working purely in finance is not conducive to my long term goals. By pivoting careers into a realm that is more healthcare oriented, I can add value by working on systemic issues that need addressing and will benefit more people in the long run. 
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+My hobbies include lifting and reading! These hobbies probably won't help maximize shareholder value sadly.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
