@@ -109,3 +109,13 @@ tr:hover {
   text-decoration: underline;
   color: #0a4275;
 }
+
+/* Wraps the introduction text to the right of the headshot */
+.img-circle {
+  border-radius: 50%;
+  object-fit: cover;
+  float: left;             /* Pushes image left so text flows right */
+  margin: 0 30px 15px 0;   /* Adds a 30px cushion between the photo and the text */
+  width: 220px;            /* Locks width and height to ensure a perfect circle */
+  height: 220px;
+}
