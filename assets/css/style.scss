@@ -16,3 +16,15 @@ img {
   margin-bottom: 30px;
   border-radius: 6px;
 }
+
+/* Forces header links to be white and readable */
+.page-header a {
+  color: #ffffff;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+/* Adds a slight fade effect when you hover over the links */
+.page-header a:hover {
+  color: rgba(255, 255, 255, 0.7);
+}
