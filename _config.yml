@@ -1,11 +1,11 @@
-title: Nico Schuster # your name (or website title) here
-logo: "/images/Headshot_2018.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-  <a href="https://www.linkedin.com/in/nicholas-schuster-/">LinkedIn</a> 
-  <br>
-  <a href="pdf/Resume_NicholasSchuster.pdf" class="btn btn--info">Resume</a>  
-  <br>
-  <a href="https://github.com/nicoschuster01/">GitHub</a>  
+title: Nico Schuster
+# Update this to your current headshot filename (e.g., Headshot_2026.jpg)
+logo: "/images/Headshot_2018.jpg" 
+description: >
+  Industrial Engineering & Operations Research | Business Analytics & Finance
+  <br><br>
+  <a href="https://www.linkedin.com/in/nicholas-schuster-/">LinkedIn</a> | 
+  <a href="pdf/Resume_NicholasSchuster.pdf">Resume</a> | 
+  <a href="https://github.com/nicoschuster01/">GitHub</a>
 
 theme: jekyll-theme-minimal
