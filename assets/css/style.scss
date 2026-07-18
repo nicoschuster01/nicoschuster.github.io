@@ -28,3 +28,17 @@ img {
 .page-header a:hover {
   color: rgba(255, 255, 255, 0.7);
 }
+
+/* Shrinks the height of the green header bar */
+.page-header {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+/* Optional: Hides the "View on GitHub" button to save even more space */
+.project-name {
+  margin-bottom: 0;
+}
+.btn {
+  display: none; 
+}
