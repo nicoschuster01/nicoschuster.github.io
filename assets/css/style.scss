@@ -116,6 +116,20 @@ tr:hover {
   object-fit: cover;
   float: left;             /* Pushes image left so text flows right */
   margin: 0 30px 15px 0;   /* Adds a 30px cushion between the photo and the text */
-  width: 220px;            /* Locks width and height to ensure a perfect circle */
-  height: 220px;
+  width: 240px;            /* Locks width and height to ensure a perfect circle */
+  height: 260px;
+}
+
+/* Adds a lighter navy background ribbon to all section headers */
+.main-content h1, 
+.main-content h2, 
+.main-content h3, 
+.main-content h4, 
+.main-content h5, 
+.main-content h6 {
+  background-color: #1f4277; /* Lighter navy blue to contrast the main header */
+  color: #ffffff;            /* White text for sharp readability */
+  padding: 12px 20px;        /* Adds space inside the colored box */
+  border-radius: 4px;        /* Slightly rounds the corners of the background box */
+  margin-top: 2rem;          /* Ensures space above the new header boxes */
 }
