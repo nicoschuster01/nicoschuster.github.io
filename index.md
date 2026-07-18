@@ -1,4 +1,4 @@
-## About Me
+## Professional Profile
 
 <!-- Upload a recent, professional headshot. I updated the filename to 2026 as a placeholder! -->
 <p style="text-align:center;">
