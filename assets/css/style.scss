@@ -132,9 +132,12 @@ body {
 .main-content h4, 
 .main-content h5, 
 .main-content h6 {
-  background-color: #1f4277; /* Lighter navy blue */
-  color: #ffffff;            /* White text for sharp readability */
-  margin-top: 2.5rem;        
+  background-color: #1f4277; 
+  color: #ffffff;            
+  
+  /* Increased space and forces the header to drop below the floated image */
+  margin-top: 4.5rem;        
+  clear: both;               
   
   /* The Full-Bleed Trick: Stretches the background to the screen edges */
   margin-left: calc(-50vw + 50%);
