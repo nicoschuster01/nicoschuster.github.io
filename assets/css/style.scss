@@ -39,6 +39,14 @@ img {
 .project-name {
   margin-bottom: 0;
 }
+
+/* Shrinks the header AND makes it a professional Navy Blue gradient */
+.page-header {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #001f3f;
+  background-image: linear-gradient(120deg, #001f3f, #0a4275);
+}
 .btn {
   display: none; 
 }
