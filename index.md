@@ -1,9 +1,11 @@
----
-layout: default
-title: Professional Profile
----
+## Professional Profile
+<!-- Upload a recent, professional headshot. I updated the filename to 2026 as a placeholder! -->
 
-<img class="img-circle" src="https://github.com/nicoschuster01/nicoschuster.github.io/raw/master/images/Headshot_2018.jpg" alt="Nico Schuster Headshot">
+<p style="text-align:center;">
+
+  <img class="img-circle" src="https://github.com/nicoschuster01/nicoschuster.github.io/raw/master/images/Headshot_2018.jpg" width="30%" alt="Nico Schuster Headshot">
+
+</p>
 
 I am a soon-to-be graduate of Lehigh University with a Master of Science in Industrial Engineering and Operations Research. Paired with my undergraduate background in Business Analytics and Finance, I have a robust foundation in statistical modeling and data-driven problem-solving. I am passionate about applying my analytical toolkit to risk assessment, pricing, and strategic decision-making within the Property & Casualty (P&C) insurance sector. I thrive on leveraging data to uncover insights that drive systemic improvements, mitigate risk, and create long-term value.
 
