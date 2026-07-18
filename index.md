@@ -16,6 +16,7 @@ I am a soon-to-be graduate of Lehigh University with a Master of Science in Indu
 _**[Risk Identification in 10-K Filings via Natural Language Processing](midterm_summary)**_
 
 Analyzed corporate 10-K filings using NLP techniques to extract and categorize emerging risk factors, demonstrating a programmatic approach to qualitative risk assessment.
+
 <!-- Replace dummy_thumbnail with a screenshot of a chart or code snippet from your project -->
 <img src="images/dummy_thumbnail.jpg?raw=true" width="50%" alt="NLP Project Thumbnail"/>
 
@@ -24,6 +25,7 @@ Analyzed corporate 10-K filings using NLP techniques to extract and categorize e
 _**[Predictive Modeling: Regression Analysis](Regression_practice)**_
 
 Built and evaluated regression models to [Insert specific goal here, e.g., predict target variables / assess correlation], highlighting proficiency in core statistical techniques foundational to P&C pricing and reserving.
+
 <!-- Replace dummy_thumbnail with a screenshot of a scatterplot or regression output -->
 <img src="images/dummy_thumbnail.jpg?raw=true" width="50%" alt="Regression Project Thumbnail"/>
 
