@@ -1,0 +1,18 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Keeps your headshot perfectly round */
+.img-circle {
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Adds a bit of breathing room to your project thumbnails */
+img {
+  margin-top: 15px;
+  margin-bottom: 30px;
+  border-radius: 6px;
+}
