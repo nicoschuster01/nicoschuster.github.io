@@ -61,28 +61,9 @@ img {
   color: #001f3f;
 }
 
-/* Softens the background of the entire page */
-body {
-  background-color: #f4f6f9; 
-}
-
-/* Turns the main content area into an elevated white card */
+/* Expands the middle content area by reducing the side margins */
 .main-content {
-  max-width: 950px; /* Brought in slightly for better reading width */
-  background-color: #ffffff;
-  border-radius: 8px; 
-  box-shadow: 0 4px 12px rgba(0, 31, 63, 0.08); /* A subtle navy-tinted shadow */
-  margin-top: -3rem; /* Pulls the card up to overlap the navy header slightly for a premium look */
-  margin-bottom: 3rem;
-  position: relative;
-  z-index: 10;
-}
-
-/* Adjusts the inner padding of the card for mobile and desktop */
-@media screen and (min-width: 64em) {
-  .main-content {
-    padding: 4rem; 
-  }
+  max-width: 1100px; 
 }
 
 /* Reduces the extra padding on large desktop screens */
