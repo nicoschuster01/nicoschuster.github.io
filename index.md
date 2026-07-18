@@ -1,57 +1,43 @@
-## About Me
+## Professional Profile
 
-Hello, my name is Nico! Thank you for visiting my web page.
-
-<!-- Upload your own photo and change the path -->
-
+<!-- Upload a recent, professional headshot. I updated the filename to 2026 as a placeholder! -->
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/nicoschuster01/nicoschuster.github.io/raw/master/images/Headshot_2018.jpg" width="30%">
+  <img class="img-circle" src="https://github.com/nicoschuster01/nicoschuster.github.io/raw/master/images/Headshot_2026.jpg" width="30%" alt="Nico Schuster Headshot">
 </p>
+
+I am a Business Analytics and Finance student with a strong foundation in statistical modeling and data-driven problem-solving. I am passionate about applying my analytical toolkit to risk assessment, pricing, and strategic decision-making within the Property & Casualty (P&C) insurance sector. I thrive on leveraging data to uncover insights that drive systemic improvements, mitigate risk, and create long-term value.
 
 ---
 
-## Portfolio
+## Projects & Analysis
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Risk Identification in 10-K Filings via Natural Language Processing](midterm_summary)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Analyzed corporate 10-K filings using NLP techniques to extract and categorize emerging risk factors, demonstrating a programmatic approach to qualitative risk assessment.
+<!-- Replace dummy_thumbnail with a screenshot of a chart or code snippet from your project -->
+<img src="images/dummy_thumbnail.jpg?raw=true" width="50%" alt="NLP Project Thumbnail"/>
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Predictive Modeling: Regression Analysis](Regression_practice)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Built and evaluated regression models to [Insert specific goal here, e.g., predict target variables / assess correlation], highlighting proficiency in core statistical techniques foundational to P&C pricing and reserving.
+<!-- Replace dummy_thumbnail with a screenshot of a scatterplot or regression output -->
+<img src="images/dummy_thumbnail.jpg?raw=true" width="50%" alt="Regression Project Thumbnail"/>
 
 ---
 
-## Career Objectives
-
-Currently an undergrad student studying Business Analytics and Finance. I am currently reorienting myself towards another discipline, mainly one in healthcare systems engineering. Studying Finance has given me a plethora of indispensable tools that I can leverage in many settings in order to create value; however, I have recently discovered that working purely in finance is not conducive to my long term goals. By pivoting careers into a realm that is more healthcare oriented, I can add value by working on systemic issues that need addressing and will benefit more people in the long run. 
+## Technical Skills
+*   **Core Competencies:** Statistical Modeling, Risk Assessment, Financial Analysis, Natural Language Processing.
+*   **Tools & Technologies:** [List your specific tools here, e.g., Python, R, SQL, Excel, Tableau, etc.]
 
 ---
 
-## Hobbies
+## Personal Interests
 
-My hobbies include lifting and reading! These hobbies probably won't help maximize shareholder value sadly.
+Outside of my academic and professional pursuits, I am an avid reader and dedicated to weightlifting—both of which keep me focused, disciplined, and continuously learning.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
