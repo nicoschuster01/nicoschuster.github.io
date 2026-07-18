@@ -50,3 +50,13 @@ img {
 .btn {
   display: none; 
 }
+
+/* Changes the index.md markdown headers to Navy Blue */
+.main-content h1, 
+.main-content h2, 
+.main-content h3, 
+.main-content h4, 
+.main-content h5, 
+.main-content h6 {
+  color: #001f3f;
+}
