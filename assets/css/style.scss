@@ -146,3 +146,18 @@ body {
   padding-left: calc(50vw - 50% + 20px);
   padding-right: calc(50vw - 50% + 20px);
 }
+
+/* Eliminates the default white padding at the top of the main content */
+.main-content {
+  padding-top: 0;
+}
+
+/* Removes the top margin ONLY from the very first header so it sits flush */
+.main-content h1:first-child, 
+.main-content h2:first-child, 
+.main-content h3:first-child, 
+.main-content h4:first-child, 
+.main-content h5:first-child, 
+.main-content h6:first-child {
+  margin-top: 0;
+}
