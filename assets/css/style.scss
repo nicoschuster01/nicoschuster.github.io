@@ -73,3 +73,39 @@ img {
     padding-right: 3rem;
   }
 }
+
+/* High-end corporate styling for data tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+th {
+  background-color: #001f3f;
+  color: #ffffff;
+  padding: 12px;
+  text-align: left;
+}
+
+td {
+  padding: 12px;
+  border-bottom: 1px solid #e1e4e8;
+}
+
+/* Subtle grey highlight when hovering over a row */
+tr:hover {
+  background-color: #f6f8fa;
+}
+
+/* Forces in-text hyperlinks to match the Navy Blue theme */
+.main-content a {
+  color: #001f3f;
+  font-weight: 600;
+}
+
+.main-content a:hover {
+  text-decoration: underline;
+  color: #0a4275;
+}
