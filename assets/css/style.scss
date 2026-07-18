@@ -2,12 +2,17 @@
 ---
 @import "{{ site.theme }}";
 
-/* Keeps your headshot perfectly round */
+/* Wraps text around a rectangular, bordered headshot */
 .img-circle {
-  border-radius: 50%;
+  border-radius: 4px;      /* Slightly softens the sharp corners for a premium look */
   object-fit: cover;
-  display: block;
-  margin: 0 auto;
+  float: left;             
+  margin: 0 30px 15px 0;   
+  width: 200px;            /* Slightly adjusted width for a clean vertical rectangle */
+  height: 250px;           /* Taller than it is wide for a classic corporate portrait aspect ratio */
+  
+  /* Corporate Branding Border */
+  border: 3px solid #1f4277; /* Matches your new lighter navy section ribbons */
 }
 
 /* Adds a bit of breathing room to your project thumbnails */
