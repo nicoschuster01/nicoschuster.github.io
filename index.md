@@ -7,46 +7,4 @@
 
 </p>
 
-I am a soon-to-be graduate of Lehigh University with a Master of Science in Industrial Engineering and Operations Research. Paired with my undergraduate background in Business Analytics and Finance, I have a robust foundation in statistical modeling and data-driven problem-solving. I am passionate about applying my analytical toolkit to risk assessment, pricing, and strategic decision-making within the Property & Casualty (P&C) insurance sector. I thrive on leveraging data to uncover insights that drive systemic improvements, mitigate risk, and create long-term value.
-
-## Projects & Analysis
-*(Your future case studies and actuarial projects will go right here!)*
-
-I am a soon-to-be graduate of Lehigh University with a Master of Science in Industrial Engineering and Operations Research. Paired with my undergraduate background in Business Analytics and Finance, I have a robust foundation in statistical modeling and data-driven problem-solving. I am passionate about applying my analytical toolkit to risk assessment, pricing, and strategic decision-making within the Property & Casualty (P&C) insurance sector. I thrive on leveraging data to uncover insights that drive systemic improvements, mitigate risk, and create long-term value.
-
----
-
-## Projects & Analysis
-
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
-
-_**[Risk Identification in 10-K Filings via Natural Language Processing](midterm_summary)**_
-
-Analyzed corporate 10-K filings using NLP techniques to extract and categorize emerging risk factors, demonstrating a programmatic approach to qualitative risk assessment.
-
-<!-- Replace dummy_thumbnail with a screenshot of a chart or code snippet from your project -->
-<img src="images/dummy_thumbnail.jpg?raw=true" width="50%" alt="NLP Project Thumbnail"/>
-
----
-
-_**[Predictive Modeling: Regression Analysis](Regression_practice)**_
-
-Built and evaluated regression models to [Insert specific goal here, e.g., predict target variables / assess correlation], highlighting proficiency in core statistical techniques foundational to P&C pricing and reserving.
-
-<!-- Replace dummy_thumbnail with a screenshot of a scatterplot or regression output -->
-<img src="images/dummy_thumbnail.jpg?raw=true" width="50%" alt="Regression Project Thumbnail"/>
-
----
-
-## Technical Skills
-*   **Core Competencies:** Statistical Modeling, Risk Assessment, Financial Analysis, Natural Language Processing.
-*   **Tools & Technologies:** [List your specific tools here, e.g., Python, R, SQL, Excel, Tableau, etc.]
-
----
-
-## Personal Interests
-
-Outside of my academic and professional pursuits, I am an avid reader and dedicated to weightlifting—both of which keep me focused, disciplined, and continuously learning.
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+I am a soon-to-be graduate of Lehigh University with a Master of Science in Industrial Engineering and Operations Research, building on an undergraduate degree in Business Analytics and Finance. Through internships in procurement analytics and manufacturing continuous improvement, plus earlier inventory control work, I have hands-on experience with SAP, Python, SQL, and Excel/VBA. I am passionate about applying optimization, forecasting, and data analysis to supply chain planning, sourcing, and inventory management. I thrive on turning complex operational data into insights that reduce cost, improve visibility, and strengthen supplier and inventory performance.
