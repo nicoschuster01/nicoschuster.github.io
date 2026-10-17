@@ -1,5 +1,4 @@
-## Professional Profile
-<!-- Upload a recent, professional headshot. I updated the filename to 2026 as a placeholder! -->
+## Nicholas Schuster
 
 <p style="text-align:center;">
 
